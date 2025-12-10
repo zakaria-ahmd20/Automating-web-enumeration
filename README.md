@@ -1,4 +1,4 @@
-# 🕵️ Passive Web Enumeration Framework (Python)
+#  Passive Web Enumeration Framework (Python)
 
 ### Author: Zakaria  
 **Version:** 1.0  
